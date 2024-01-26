@@ -178,7 +178,7 @@ Various testing tools were employed, including:
 + **JUnit:** Employed for unit testing of individual components.
 + **Jira:** Utilized for defect tracking and management.
 ## 4.7 Execution of Test Cases
-Test cases were executed systematically, covering scenarios related to user registration, profile setup, screen time monitoring, website blocking, and more. Each test case was meticulously documented, and outcomes were recorded.
+Test cases were executed systematically, covering scenarios related to user registration, screen time monitoring and website blocking. Each test case was meticulously documented, and outcomes were recorded.
 
 ![test case](https://github.com/tahrima-sayem/RoboNanny/assets/157807679/4c0e0a89-b79c-4186-af60-b356727db58b)
 
