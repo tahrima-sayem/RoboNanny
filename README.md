@@ -22,6 +22,9 @@ RoboNanny is a clever software solution designed to help individuals and familie
 
 As we start this journey, my focus isn't just on cutting-edge tech but also on handling the ethical side of monitoring and control. Respecting user privacy, seeking consent, and sticking to the rules are key to my approach. Together, let's reshape how we relate to our digital devices. With RoboNanny at the helm, we're aiming for a balanced and friendly digital coexistence.
 
+![robot](https://github.com/tahrima-sayem/RoboNanny/assets/157807679/ca0cd9fc-5446-4b6e-9ecf-de3cdecc643c)
+
+
 # Development Methodology
 The RoboNanny project is developed by iterative model where in each iteration, we used WFM.
 The Iterative Waterfall Model is a software development approach that combines the sequential steps of the traditional Waterfall Model with the flexibility of iterative design. It allows for improvements and changes to be made at each stage of the development process, instead of waiting until the end of the project. The iterative waterfall model provides feedback paths from every phase to its preceding phases, which is the main difference from the classical waterfall model. 
@@ -147,7 +150,8 @@ Regular risk assessments throughout the project lifecycle, along with proactive 
 # 3. Designing
 ## 3.1 ER Diagram
 
-![ER Diagram](https://github.com/tahrima-sayem/RoboNanny/assets/157807679/0ad2a1a1-3b67-4ebe-be44-3a9b636dad49)
+![ER Diagram](https://github.com/tahrima-sayem/RoboNanny/assets/157807679/06f4362d-8784-4a25-969c-a45b059c4bbe)
+
 
 ## 3.2 Sequence Diagram
 
@@ -232,3 +236,4 @@ The project's achievements, including positive user feedback and robust testing 
 + Iterative Waterfall Model - Software Engineering - GeeksforGeeks
 + Google
 + ttps://chat.openai.com/
++ Software Engineering 10th Edition by Ian Sommerville
