@@ -235,5 +235,5 @@ The project's achievements, including positive user feedback and robust testing 
 # 9. References
 + Iterative Waterfall Model - Software Engineering - GeeksforGeeks
 + Google
-+ ttps://chat.openai.com/
++ https://chat.openai.com/
 + Software Engineering 10th Edition by Ian Sommerville
